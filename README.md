@@ -7,7 +7,7 @@
 
 Files | Description
 ----------- | -----------
- | 
+ | I
 [sort.h](./sort.h) | Header file
 [0-bubble_sort.c](./0-bubble_sort.c) | Function that sorts an array of integers in ascending order using the Bubble sort algorithm Prototype: void bubble_sort(int *array, size_t size)
 [1-insertion_sort_list.c](./1-insertion_sort_list.c) | Function that sorts a doubly linked list of integers in ascending order using the Insertion sort algorithm Prototype: void insertion_sort_list(listint_t **list);
